@@ -1,0 +1,8 @@
+1.0 !dx
+1.0 !dy
+800 !nx
+40 !ny
+0.1 !dt
+1.0 !total t
+0.5 ! input wave circular frequency
+0.5 ! input wave amplitude
